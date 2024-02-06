@@ -5,8 +5,6 @@ Bibliografía
 
 https://pcsitna.navarra.es/archivo/Documents/Sistemas.de.Informacion.Geografica.pdf
 
-http://naturalis.fcnym.unlp.edu.ar/repositorio/_documentos/sipcyt/bfa003805.pdf
-
 https://itbook.store/files/9781783280995/practical-data-analysis.pdf
 
 
