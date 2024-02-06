@@ -4,7 +4,9 @@ Bienvenidos al curso 2024_1, en este repositorio encontraran el material de cada
 Bibliografía
 
 https://pcsitna.navarra.es/archivo/Documents/Sistemas.de.Informacion.Geografica.pdf
-http://naturalis.fcnym.unlp.edu.ar/repositorio/_documentos/sipcyt/bfa003805.pdf
+
 https://itbook.store/files/9781783280995/practical-data-analysis.pdf
+
+https://www.perlego.com/book/4357/learning-geospatial-analysis-with-python-second-edition-pdf?utm_source=google&utm_medium=cpc&campaignid=15913701111&adgroupid=131883408429&gclid=EAIaIQobChMIme_kyMmVhAMVM4VaBR3qkgVOEAAYAiAAEgKPHfD_BwE
 
 
