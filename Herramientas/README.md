@@ -1,6 +1,6 @@
 Instalación QGIS
 
-Ingresar al siguiente link y dar clic en la parte resaltada (amarillo) para iniciar la descarga de la versión 3.28 LTR
+Ingresar al siguiente link y dar clic en la parte resaltada (amarillo) como se muestra en la imagen para iniciar la descarga de la versión 3.28 LTR
 
 https://qgis.org/es/site/forusers/download.html
 
