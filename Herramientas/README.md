@@ -4,7 +4,7 @@ Ingresar al siguiente link y dar clic en la parte resaltada (amarillo) para inic
 
 https://qgis.org/es/site/forusers/download.html
 
-![QGIS](https://github.com/LuisaFdaGomez/INTRODUCCION-A-LA-GESTION-DE-DATOS-GEOCIENTIFICOS/assets/66097296/aa43cdd8-f3f0-40a2-b78e-1f5b19e6081e)
+![QGIS](https://github.com/LuisaFdaGomez/INTRODUCCION-A-LA-GESTION-DE-DATOS-GEOCIENTIFICOS/assets/66097296/02cd3b43-0b30-4e4f-9213-1656e8a9bca7)
 
 
 
