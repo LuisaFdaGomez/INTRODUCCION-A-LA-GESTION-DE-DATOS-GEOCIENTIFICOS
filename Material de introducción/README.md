@@ -4,6 +4,7 @@ https://youtu.be/85UOcGFhOHE?si=xaWSn7QJX6bepeR6
 
 
 Geospatial Revolution
+
 Episodio_1
 https://youtu.be/poMGRbfgp38?si=2UhRAyU1ThE_XgVz
 
