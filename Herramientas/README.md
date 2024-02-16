@@ -8,6 +8,6 @@ https://qgis.org/es/site/forusers/download.html
 
 Además usaremos la interacción entre GitHub, Colab y Drive en el flujo de trabajo
 
-![flujotrabajo](https://github.com/LuisaFdaGomez/INTRODUCCION-A-LA-GESTION-DE-DATOS-GEOCIENTIFICOS/assets/66097296/a091d877-8b98-470b-b045-b14fe69174a3)
+![flujotrabajo](https://github.com/LuisaFdaGomez/INTRODUCCION-A-LA-GESTION-DE-DATOS-GEOCIENTIFICOS/assets/66097296/b6fe15ae-f54d-4e84-8ef6-63c44038d645)
 
 
