@@ -6,7 +6,7 @@ https://qgis.org/es/site/forusers/download.html
 
 ![QGIS](https://github.com/LuisaFdaGomez/INTRODUCCION-A-LA-GESTION-DE-DATOS-GEOCIENTIFICOS/assets/66097296/02cd3b43-0b30-4e4f-9213-1656e8a9bca7)
 
-
+Además usaremos la interacción entre GitHub, Colab y Drive en el flujo de trabajo
 
 
 
