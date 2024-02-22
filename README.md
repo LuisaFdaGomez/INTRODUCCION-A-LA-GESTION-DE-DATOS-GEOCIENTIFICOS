@@ -8,7 +8,7 @@ https://pcsitna.navarra.es/archivo/Documents/Sistemas.de.Informacion.Geografica.
 https://itbook.store/files/9781783280995/practical-data-analysis.pdf
 
 
-![Programa_page-0001](https://github.com/LuisaFdaGomez/INTRODUCCION-A-LA-GESTION-DE-DATOS-GEOCIENTIFICOS/assets/66097296/50f12468-171e-4332-8d3f-f3a560dcec2a)
+![programa](https://github.com/LuisaFdaGomez/INTRODUCCION-A-LA-GESTION-DE-DATOS-GEOCIENTIFICOS/assets/66097296/d7da0970-3ebe-41a7-8343-90218dd3f126)
 Recordar: certificado curso coursera https://www.coursera.org/learn/python-data-analysis.
 El curso para los estudiantes de la universidad es GRATIS, solo se deben inscribir con la cuenta de correo de la universidad
 
