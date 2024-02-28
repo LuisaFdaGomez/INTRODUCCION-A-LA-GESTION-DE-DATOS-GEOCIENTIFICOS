@@ -7,8 +7,11 @@ https://pcsitna.navarra.es/archivo/Documents/Sistemas.de.Informacion.Geografica.
 
 https://itbook.store/files/9781783280995/practical-data-analysis.pdf
 
+PROGRAMA 2024_1
+UNIVERSIDAD NACIONAL DE COLOMBA.FACULTAD DE MINAS. SEDE MEDELLIN
 
-![Programa_page-0001](https://github.com/LuisaFdaGomez/INTRODUCCION-A-LA-GESTION-DE-DATOS-GEOCIENTIFICOS/assets/66097296/50f12468-171e-4332-8d3f-f3a560dcec2a)
+![programa](https://github.com/LuisaFdaGomez/INTRODUCCION-A-LA-GESTION-DE-DATOS-GEOCIENTIFICOS/assets/66097296/f530a6fd-f0f2-4889-ab54-53d9e6d5c0a5)
+
 Recordar: certificado curso coursera https://www.coursera.org/learn/python-data-analysis.
 El curso para los estudiantes de la universidad es GRATIS, solo se deben inscribir con la cuenta de correo de la universidad
 
