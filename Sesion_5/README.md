@@ -18,7 +18,7 @@ http://www.ideam.gov.co/solicitud-de-informacion
 Servicios geográficos PNN
 http://www.parquesnacionales.gov.co/portal/es/servicio-al-ciudadano/servicios-de-informacion/
 
-Istituto Humboldt
+Instituto Humboldt
 https://www.humboldt.org.co/consulta
 
 Banco de Información Petrolera
