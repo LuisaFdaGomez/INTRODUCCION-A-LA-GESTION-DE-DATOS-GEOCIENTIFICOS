@@ -13,13 +13,12 @@ Sistema de información Ambiental Marino de Colombia
 http://siam.invemar.org.co/
 
 IDEAM
-http://www.ideam.gov.co/solicitud de informacion
+http://www.ideam.gov.co/solicitud-de-informacion
 
 Servicios geográficos PNN
-http://www.parquesnacionales.gov.co/portal/es/servicio al ciudadano/servicios de
-informacion/
+http://www.parquesnacionales.gov.co/portal/es/servicio-al-ciudadano/servicios-de-informacion/
 
-Istituto Humboldt
+Instituto Humboldt
 https://www.humboldt.org.co/consulta
 
 Banco de Información Petrolera
@@ -38,7 +37,7 @@ http://www.iucnredlist.org/
 
 https://mrdata.usgs.gov/general/global.html
 
-https://hub.arcgis.com/pages/open data
+https://hub.arcgis.com/pages/open-data
 
 http://datosabiertos.esri.co/
 
